@@ -1,0 +1,31 @@
+body{
+   height: 3000px;
+}
+
+h1{
+   color: rgb(255, 12, 12);
+}
+
+h3{
+   font-style: italic;
+   color: white;
+}
+.post{
+   background-color: black;
+}
+h4{
+   color: white;
+}
+h3 span{
+   color: blue;
+}
+.delete{
+   font-weight: 700;
+   font-size: 17px;
+   border: 1px solid rgb(133, 133, 133);
+   padding: 4px 8px;
+   background-color: rgb(12, 119, 78);
+   color: white;
+   border-radius: 5px;
+   cursor: pointer;
+}
